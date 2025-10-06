@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-👋I am Sai Teja Sunku majoring with BS in CS and an aspiring and passionate Computer Scientist. I thrive on studying and gaining insights into Computer Science foundational principles and the latest cutting-edge technologies. 
+👋I’m Sai Teja Sunku, an aspiring and passionate Computer Scientist and AI Engineer, currently pursuing a BS in Computer Science and an MS in Artificial Intelligence. I thrive on studying and gaining insights into Computer Science foundational principles and the latest AI cutting-edge technologies.  
 
 🎓My journey at Worcester Polytechnic Institute (WPI) has equipped me with a strong foundation in object-oriented design, system programming, operating systems, data structures, algorithms, and web development. Through WPI's project-based learning approach, I've had the opportunity to apply what I have learned to build meaningful and high-quality real-world applications. 
 
